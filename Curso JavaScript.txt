@@ -1,0 +1,7 @@
+Java Script Frameworks:
+- jQuery
+- AngularJS
+- NodeJS
+
+Dica: começar pela linguagem em si, deixar frameworks para depois
+
