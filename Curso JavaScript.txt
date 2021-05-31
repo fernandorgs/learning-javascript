@@ -5,3 +5,22 @@ Java Script Frameworks:
 
 Dica: começar pela linguagem em si, deixar frameworks para depois
 
+-----
+
+AULA 1 - Variáveis e Constantes:
+
+CTRL+Shift+i = Modo inspeção no navegador (ou botão direito, inspecionar)
+Console
+Nos '...' pode alterar a posição do console
+CTRL+l = limpar
+
+; no final da linha é opcional
+
+- var cria variável (ex: var tituloDoConteudo = "Variáveis e Constantes";)
+- comando let é muito similar ao var (e não foi explicado)
+- const = constante (const duraçãoMaximaDoCurso = "12 meses";)
+
+Formato de escrever uma variável = Camel Case = começa tudo em minuscula, e depois vai colocando maiuscula na primeira letra de cada nome, não usa espaço e não começa com numeros
+
+--- parei em: https://app.betrybe.com/freecourse/introducao-ao-javascript/parte-2/
+Tipos Primitivos
