@@ -1,4 +1,4 @@
-https://app.betrybe.com/freecourse/introducao-ao-javascript/
+https://freecourse.betrybe.com/introducao-ao-javascript/parte-1
 
 Java Script Frameworks:
 - jQuery
@@ -24,6 +24,7 @@ CTRL+l = limpar
 
 Formato de escrever uma variável = Camel Case = começa tudo em minuscula, e depois vai colocando maiuscula na primeira letra de cada nome, não usa espaço e não começa com numeros
 
+https://freecourse.betrybe.com/introducao-ao-javascript/parte-2
 AULA 2 - Tipos Primitivos
 String
 var nomeEstudante = "Ana";
@@ -44,6 +45,40 @@ typeof 14
 typeof aprovada
 "boolean"
 
+Referências:
+https://medium.com/trainingcenter/entendendo-os-tipos-e-variaveis-em-javascript-f9753b4c7b61
+https://www.w3schools.com/js/js_variables.asp
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md#valores-tipos-e-operadores
 
+*** https://freecourse.betrybe.com/introducao-ao-javascript/parte-3
+AULA 3.1 - Operadores aritméticos
+AULA 3.2 - Operadores de Comparação
+AULA 3.3 - Operadores lógicos
+AULA 3.4 - Estruturas condicionais
 
-Number
+Referências:
+https://www.w3schools.com/js/js_comparisons.asp
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md#compara%C3%A7%C3%B5es
+https://www.w3schools.com/js/js_arithmetic.asp
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md#operadores-l%C3%B3gicos
+https://www.w3schools.com/js/js_if_else.asp
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/02-estrutura-do-programa.md#execu%C3%A7%C3%A3o-condicional
+
+https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/
+AULA 4.1 - Arrays
+AULA 4.2 - Estruturas de repetição
+
+Referências:
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/04-estruturas-de-dados.md#estrutura-de-dados-objetos-e-array
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/04-estruturas-de-dados.md#strings-e-suas-propriedades
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/02-estrutura-do-programa.md#loops-for
+
+https://freecourse.betrybe.com/introducao-ao-javascript/parte-5/
+AULA 5 - Funções
+
+Referências:
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/03-funcoes.md#fun%C3%A7%C3%B5es
+
+https://freecourse.betrybe.com/introducao-ao-javascript/parte-6/
+AULA 6 - Exercícios
+
