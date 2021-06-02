@@ -1,3 +1,5 @@
+https://app.betrybe.com/freecourse/introducao-ao-javascript/
+
 Java Script Frameworks:
 - jQuery
 - AngularJS
@@ -22,5 +24,26 @@ CTRL+l = limpar
 
 Formato de escrever uma variável = Camel Case = começa tudo em minuscula, e depois vai colocando maiuscula na primeira letra de cada nome, não usa espaço e não começa com numeros
 
---- parei em: https://app.betrybe.com/freecourse/introducao-ao-javascript/parte-2/
-Tipos Primitivos
+AULA 2 - Tipos Primitivos
+String
+var nomeEstudante = "Ana";
+var nomeEstudante = 'Ana';
+
+Boolean
+var aprovada = true;
+var aprovada = false;
+
+Number
+var idade = 12
+var custo = 350.90
+
+Comando typeof identifica o tipo de variavel ou valor
+exemplo: 
+typeof 14
+"number"
+typeof aprovada
+"boolean"
+
+
+
+Number
